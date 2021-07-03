@@ -114,7 +114,7 @@ class Home extends StatelessWidget {
             ),
             thickDivider,
             PostCard(
-              name: "APJ Abdul Kelam",
+              name: "APJ Abdulsh Kelam",
               photos: apj,
               publishedAt: "2h",
               postTitle: "",
